@@ -1,4 +1,4 @@
-# SNNBP
+# Enlarge-Likelihood-Each-Notable-Amplitude Spiking-Neural-Network (ELENA-SNN) decoder
 ### Message passing decoder with Spiking Neural Networks
 
 This repo provides the codebase and results for [1]
