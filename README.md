@@ -6,7 +6,7 @@ This repo provides the codebase and results for [1]
 
 ### Code will be published upon acceptance.
 
-[1] Alexander von Bank, Eike-Manuel Edelmann, Sisi Miao, Jonathan Mandelbaum, and Laurent Schmalen, "Spiking Neural Belief Propagation Decoder for Short Block Length LDPC Codes," IEEE Commun. Lett., Vol. 28, No. ??? , ???, ???. 2024, <LINK>
+[1] Alexander von Bank, Eike-Manuel Edelmann, Sisi Miao, Jonathan Mandelbaum, and Laurent Schmalen, "Spiking Neural Belief Propagation Decoder for Short Block Length LDPC Codes," IEEE Commun. Lett., Vol. 29, No. 1 , 1. January 2025, https://doi.org/10.1109/LCOMM.2024.3492711
 
 ---
 
